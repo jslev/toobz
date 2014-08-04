@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Supertoobz" package="com.example.supertoobz" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Supertoobz" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="hscript" />
+	<haxelib name="haxeui" />
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>
